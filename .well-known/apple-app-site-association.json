@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": “64N8QBY7WN.ru.ozon.sellerApp",
+        "appID": "64N8QBY7WN.ru.ozon.sellerApp",
         "paths": [
           "*"
         ]
       },
 
       {
-        "appID": “64N8QBY7WN.ru.ozon.sellerApp.dev",
+        "appID": "64N8QBY7WN.ru.ozon.sellerApp.dev",
         "paths": [
           "*"
         ]
