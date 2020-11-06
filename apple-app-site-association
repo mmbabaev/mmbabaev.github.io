@@ -5,14 +5,14 @@
       {
         "appID": "64N8QBY7WN.ru.ozon.sellerApp",
         "paths": [
-          "https://mmbabaev.github.io/test.html"
+          "/deep_links/"
         ]
       },
 
       {
         "appID": "64N8QBY7WN.ru.ozon.sellerApp.dev",
         "paths": [
-          "https://mmbabaev.github.io/test.html"
+          "/deep_links/"
         ]
       }
     ]
