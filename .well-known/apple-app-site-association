@@ -5,16 +5,23 @@
       {
         "appID": "64N8QBY7WN.ru.ozon.sellerApp",
         "paths": [
-          "/deep_links/*"
+          "/applinks/*"
         ]
       },
 
       {
         "appID": "64N8QBY7WN.ru.ozon.sellerApp.dev",
         "paths": [
-          "/deep_links/*"
+          "/applinks/*"
         ]
       }
     ]
+  },
+
+  "webcredentials": {
+      "apps": [ 
+	"64N8QBY7WN.ru.ozon.sellerApp.dev",
+	"64N8QBY7WN.ru.ozon.sellerApp"
+      ]
   }
 }
